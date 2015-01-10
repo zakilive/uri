@@ -1,0 +1,12 @@
+#include<iostream>
+#include<cstdio>
+#include<cstdlib>
+int main()
+{
+    float x,y,z;
+scanf("%d\n %d",&x,&y);
+z=x/y;
+printf("%.3f km/l\n",z);
+return 0;
+}
+
